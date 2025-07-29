@@ -1,5 +1,7 @@
 # Retro_Portfolio
 
+https://shednas.github.io/Retro_Portfolio
+
 A fun and stylish **2D retro-themed portfolio website** built as a Test. This project showcases classic pixel-art aesthetics and vintage design elements, while also serving as a testbed for **GitHub Pages** hosting to enable seamless deployment.
 
 ---
