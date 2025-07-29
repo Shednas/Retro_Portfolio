@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact - Sandesh Thapa Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="snowflake" style="left: 10%; animation-duration: 10s; animation-delay: 0s;"></div>
+  <div class="snowflake" style="left: 30%; animation-duration: 12s; animation-delay: 2s;"></div>
+  <div class="snowflake" style="left: 50%; animation-duration: 8s; animation-delay: 1s;"></div>
+  <div class="snowflake" style="left: 70%; animation-duration: 11s; animation-delay: 4s;"></div>
+  <div class="snowflake" style="left: 90%; animation-duration: 9s; animation-delay: 3s;"></div>
+
+  <div class="screen">
+    <h1 class="title">📧 Contact Me</h1>
+
+    <p class="info-text">
+      This form will open your email client. If it doesn't work, please email me directly at
+      <a href="mailto:your.email@example.com" class="email-link">your.email@example.com</a>.
+    </p>
+
+    <form action="mailto:your.email@example.com" method="post" enctype="text/plain">
+      <label for="name">Name:</label>
+      <input id="name" name="name" type="text" placeholder="Your name" required />
+
+      <label for="email">Email:</label>
+      <input id="email" name="email" type="email" placeholder="your@email.com" required />
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="5" placeholder="Write your message here..." required></textarea>
+
+      <button type="submit">Send</button>
+    </form>
+
+    <nav id="menu">
+      <a href="index.html" class="menu-link">⬅ Back to Menu</a>
+    </nav>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
