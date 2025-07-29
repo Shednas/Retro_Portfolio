@@ -1,6 +1,5 @@
 /* === BODY & FONT === */
 body {
-  background: url('https://i.imgur.com/4i9r7qU.png') repeat;
   background-size: 64px 64px;
   color: #F5EBD9; /* Soft off-white for readability */
   font-family: 'Press Start 2P', cursive;
@@ -14,15 +13,6 @@ body {
   /* overflow-y: hidden;  <-- Removed to allow vertical scrolling */
   position: relative;
 }
-
-/* If you prefer to keep overflow-y hidden, uncomment this and comment the above */
-/*
-body {
-  overflow-x: hidden;
-  overflow-y: hidden;
-  position: relative;
-}
-*/
 
 body::before {
   content: "";
