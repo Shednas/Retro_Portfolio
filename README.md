@@ -1,17 +1,16 @@
 # Retro_Portfolio
-A fun and stylish 2D retro-themed portfolio website built as a creative experiment. This project serves as a testbed for exploring classic pixel-art aesthetics and vintage design elements while also experimenting with GitHub Pages hosting for seamless deployment.
 
-Features
-Authentic retro 2D pixel art style
+A fun and stylish **2D retro-themed portfolio website** built as a Test. This project showcases classic pixel-art aesthetics and vintage design elements, while also serving as a testbed for **GitHub Pages** hosting to enable seamless deployment.
 
-Clean and minimalistic layout inspired by vintage computer interfaces
+---
 
-Fully responsive design for modern browsers
+## Features
 
-Simple and effective showcase of projects and skills
+- 🎨 Authentic retro 2D pixel art style  
+- 🖥️ Clean and minimalistic layout inspired by vintage computer interfaces  
+- 💼 Simple and effective showcase of projects and skills  
+- 🎮 Includes a fun dodge game on the go for interactive entertainment
+  
+---
 
-Easy deployment on GitHub Pages for instant live previews
-
-This repo is perfect for developers looking to combine nostalgia with modern web tech, or anyone interested in hosting lightweight personal portfolios with a unique retro flair.
-
-A fun dodge game on the go.
+Enjoy📺
